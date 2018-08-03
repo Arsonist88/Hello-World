@@ -1,2 +1,3 @@
 # Hello-World
 my intro to coding
+I am originally from California... Now I reside in Ohio. I have always wanted to one day make or significantly contribute to the creation of a video game... particularly an action/strategy video game. I have just recently aqcuired a Laptop capable of running Unreal Engine 4.2 and Microsoft Visual Studio, and learning to code has just become a very enjoyable, though frustrating, hobby for me...
